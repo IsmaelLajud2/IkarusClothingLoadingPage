@@ -68,13 +68,14 @@ body {
        
     }
     .loading img {
-        width: 90%; 
+        width: 90%;  
         max-width: none; 
         margin-left: 5%;
     }
 
     
     .socialMedia a {
+        height: auto;
         margin: 0 10px; 
         margin-top: 30px; 
         
